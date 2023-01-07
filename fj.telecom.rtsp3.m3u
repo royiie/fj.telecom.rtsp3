@@ -58,6 +58,17 @@ rtsp://27.148.219.129:554/live/ch18041916495291111646.sdp?playtype=1&boid=001&ba
 #EXTINF:-1 tvg-id=" " tvg-name="CGTNDOCUMENTARY" tvg-logo="https://epg.112114.xyz/logo/CGTNDOCUMENTARY.png" group-title="央视",CGTN DOCUMENT英文
 rtsp://27.148.240.181/PLTV/88888888/224/3221227137/59904318.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIccoHGHEenT6E6I0AZMG3Q%7EFy2eiN4yCIl6lRvTPByU-tVda0RyXB76qZmFXVO1rTxBY1I3OyZGzDstmWKbaYdNtnVjSv601IxTS4DE9lpI0vrlNU6k6ZAnS57Rm0uJawI%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20210903165926%2C10500000500736%2C125.77.92.207%2C20210903165926%2Curn%3AHuawei%3AliveTV%3AXTV59904317%2C1000100055602320210903165926%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2OwQ6CMAyG32bHBSYOPOyEMTExeAC9mroVJBSYG5j49sLk1vb7v_SfHGg8H9UwEzGP72JUgmkgaoemGM2K7mX-ECmPk4wLIXnCqtU5ETQqCtFi7p_otmXxSnSfVqMyvuaW4Ds74t62Yb452jDDavsdy10k0ziTUuwPbFqvFfhuIewFPh97Cw7NZWyCoGogj8yC7qDBAnr8lw_e1ZmlyQ-zddNb1QAAAA
 
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场(龙岩电信6M)
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",CCTV风云音乐(龙岩电信6M)
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="央视",CCTV怀旧剧场(龙岩电信6M)
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="央视",CCTV第一剧场(龙岩电信6M)
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="央视",CCTV兵器科技(龙岩电信6M)
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="地方",CHC动作电影
 rtsp://27.148.240.181/PLTV/88888888/224/3221227170/70545651.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7ETbenDiDEr6laGnwSzQ2wtg%7EYDm42J0nrDWCt8Mpzr2RLjrmwCuX-YV3zQNTOH9YtTtBY1I3OyZGzDstmWKbaYdNj_6X81Oq4ABzO3ICBn__lSZe1nOH14oxqLyvI8KBYug%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20221123232524%2C10500000500736%2C125.77.95.137%2C20221123232524%2Curn%3AHuawei%3AliveTV%3AXTV70545650%2C1000100055602320221123232523%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLBqryWHSFMTExdQG6NWMZKmGgtQUT_15AdjNz7snc0YPG81EOExEL-FZWCqaBqB2MsvWC7mXxECmP9xkXIuEZqxbnRGBktEbV1D_Rb8vsleg_rUZZh4Y7gu_kiQfXrvPN04YZVtvvOElycYhEmse7lI3LtYLQzYS9IBS2d-CxvlizCrIBCsgc6A4MKujxX371rr6em_wAyuC36tUAAAA
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="地方",CHC高清电影(香港阿里云8M)
@@ -196,6 +207,8 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星光影院" tvg-logo=" " group-title="BesTV",星光影院(福州电信8M)
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录(龙岩电信6M)
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f//index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="奶虫恐怖电影" tvg-logo=" " group-title="地方",奶虫恐怖电影 10M
 http://epg.112114.xyz/douyu/263824
